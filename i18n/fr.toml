@@ -5,13 +5,13 @@ other = "ltr"
 other = "Rechercher"
 
 [Search-placeholder]
-other = "Rechercher..."
+other = "Rechercher…"
 
 [No-results-found]
-other = "Aucun résultat trouvé pour \"{0}\""
+other = "Aucun résultat trouvé pour « {0} »"
 
 [N-results-found]
-other = "{1} résultats trouvés pour \"{0}\""
+other = "{1} résultats trouvés pour « {0} »"
 
 [Clear-History]
 other = "Supprimer l'historique"
@@ -29,7 +29,7 @@ other = "Oups. On dirait que cette page n'existe pas ¯\\_(ツ)_/¯"
 other = "Vers la page d'accueil"
 
 [Edit-this-page]
-other = "Éditer"
+other = "Modifier"
 
 [Print-this-chapter]
 other = "Imprimer le chapitre entier"
@@ -38,7 +38,7 @@ other = "Imprimer le chapitre entier"
 other = "Aller plus loin"
 
 [Expand-title]
-other = "Déroulez-moi..."
+other = "Déroulez-moi…"
 
 [Navigation-toggle]
 other = "Menu"
@@ -71,13 +71,13 @@ other = "Avertissement"
 other = "Copier dans le presse-papiers"
 
 [Copied-to-clipboard]
-other = "Copié dans le presse-papiers!"
+other = "Copié dans le presse-papiers !"
 
 [Copy-link-to-clipboard]
 other = "Copier le lien dans le presse-papiers"
 
 [Link-copied-to-clipboard]
-other = "Lien copié dans le presse-papiers!"
+other = "Lien copié dans le presse-papiers !"
 
 [Chapter]
 other = "Chapitre {{.}}"
